@@ -2,7 +2,7 @@
 Codecademy project to create a basic website for a fictional art store.
 
 ## Table of Contents
-1. * [General Inof](#general-info)
+1. * [General Info](#general-info)
 2. * [Technologies](#technologies)
 3. * [Status](status)
 
